@@ -35,6 +35,3 @@ func main() {
 		})
 	log.Printf("messages Sent %s", body)
 }
-
-i completed this task .Created two api sender and reciver, sender send the and the message  and this meassage is stored in the queue 
-of rabbitmq and when reciver want to recive that mesaage they easily received it any time .  
